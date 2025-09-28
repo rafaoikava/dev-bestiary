@@ -15,5 +15,11 @@
     "url": "https://github.com/rafaoikava/dev-bestiary/issues"
   },
   "homepage": "https://github.com/rafaoikava/dev-bestiary#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "firebase-tools": "^14.17.0"
+  },
+  "dependencies": {
+    "firebase": "^12.3.0"
+  }
 }
