@@ -72,3 +72,12 @@ a:visited {
   background-color: #5d4848;
   color: var(--txt-default-color);
 }
+
+.authForm {
+  text-align: center;
+}
+
+.loginData,
+.buttonForm {
+  margin-top: 15px;
+}
